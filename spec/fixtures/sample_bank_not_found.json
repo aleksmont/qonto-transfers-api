@@ -1,0 +1,15 @@
+{
+  "organization_name": "Bank Not Found",
+  "organization_bic": "123456789",
+  "organization_iban": "qwertyuio",
+  "credit_transfers": [
+    {
+      "amount": "200",
+      "currency": "EUR",
+      "counterparty_name": "Daffy Duck",
+      "counterparty_bic": "DDFCNLAM",
+      "counterparty_iban": "NL24ABNA5055036109",
+      "description": "2020/RabbitSeason/"
+    }
+  ]
+}
